@@ -1,0 +1,148 @@
+body {
+  font-family: 'Arimo', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #202124;
+  align-items: center;
+}
+
+.right {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  align-self: center;
+  flex-direction: row;
+  padding: 15px 10px 6px 38px;
+}
+
+.gmail {
+  display: flex;
+  padding-left: 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.gmail:hover {
+  text-decoration: underline;
+}
+
+.img {
+  display: flex;
+  padding: 0 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.img:hover {
+  text-decoration: underline;
+}
+
+.pad {
+  padding: 0 12px;
+  cursor: pointer;
+}
+
+.weirdpad {
+  min-width: 30px;
+  max-width: 30px;
+}
+
+.weirdpad:hover {
+  background: #303134;
+  border-radius: 50%;
+}
+
+.profilepic {
+  padding: 0 12px 0 12px;
+  cursor: pointer;
+}
+
+.icon {
+  color: white;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.icon:hover {
+  background: #303134;
+  border-radius: 50%;
+}
+
+.logo {
+  height: 92px;
+}
+
+.mainsearch {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.search {
+  align-self: center;
+  padding: 20px;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid #57595C;
+  background: #202124;
+  width: 35rem;
+  height: 3rem;
+  color: white;
+  border-radius: 45px;
+}
+
+.searchbar:hover {
+  border: 1px solid #303134;
+  background: #303134;
+}
+
+.magnifyingcolor {
+  color: #9aa0a6;
+}
+
+.magnifyingglass {
+  width: 35px;
+  height: 35px;
+  padding: 0 8px;
+}
+
+input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 16px;
+  color: white;
+}
+
+.goxjub {
+  width: 35px;
+  height: 35px;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.buttons {
+  padding-top: 8px;
+}
+
+.search-btn {
+  background-color: #303134;
+  border-radius: 4px;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  color: white;
+  border: 1px solid #303134;
+  padding: 0 16px;
+  line-height: 27px;
+  min-width: 54px;
+  height: 36px;
+}
+
+.search-btn:hover {
+  border: 1px solid #57595C;
+}
