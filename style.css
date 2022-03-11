@@ -146,3 +146,8 @@ input {
 .search-btn:hover {
   border: 1px solid #57595C;
 }
+
+#footer {
+  font-size: 1em;
+  font-family: 'Covered By Your Grace', cursive;
+}
