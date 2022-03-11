@@ -155,3 +155,15 @@ input {
   font-family: 'Covered By Your Grace', cursive;
   color: white;
 }
+
+@media (max-width: 480px){
+  .searchbar {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid #57595C;
+  background: #202124;
+  width: 450px;
+  height: 3rem;
+  color: white;
+  border-radius: 45px;
+}
