@@ -87,7 +87,7 @@ body {
   align-items: center;
   border: 0.5px solid #57595C;
   background: #202124;
-  width: 39em;
+  width: 37em;
   height: 3rem;
   color: white;
   border-radius: 45px;
@@ -177,7 +177,7 @@ input {
 }
 
 .carbon-style {
-  margin: 0 8rem;
+  margin: 0 9rem;
 }
 
 .underline:hover {
