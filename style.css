@@ -49,7 +49,6 @@ body {
 .weirdpad {
   min-width: 40px;
   max-width: 40px;
-  padding-right: 12px;
 }
 
 .weirdpad:hover {
