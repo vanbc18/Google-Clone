@@ -72,6 +72,7 @@ body {
 
 .logo {
   margin-top: 12.5em;
+  margin-bottom: 2em;
   height: 92px;
 }
 
@@ -89,7 +90,6 @@ body {
 .searchbar {
   display: flex;
   align-items: center;
-  margin-top: 10px;
   border: 0.5px solid #57595C;
   background: #202124;
   width: 36em;
