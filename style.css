@@ -57,6 +57,8 @@ body {
 }
 
 .profilepic {
+  min-width: 25px;
+  max-width: 25px;
   padding-left: 12px;
   cursor: pointer;
 }
