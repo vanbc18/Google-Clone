@@ -126,10 +126,6 @@ input {
   cursor: pointer;
 }
 
-.buttons {
-  padding-top: 8px;
-}
-
 .search-btn {
   background-color: #303134;
   border-radius: 4px;
