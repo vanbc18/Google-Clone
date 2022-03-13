@@ -49,6 +49,7 @@ body {
 .weirdpad {
   min-width: 25px;
   max-width: 25px;
+  padding-right: 12px;
 }
 
 .weirdpad:hover {
@@ -59,7 +60,6 @@ body {
 .profilepic {
   min-width: 25px;
   max-width: 25px;
-  padding-left: 12px;
   cursor: pointer;
 }
 
