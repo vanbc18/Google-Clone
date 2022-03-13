@@ -160,13 +160,14 @@ input {
 
 .country {
   display: block;
-  font-size: 1rem;
+  font-size: 15px;
   height: 48px;
   padding: 15px 30px;
   border-bottom: 1px solid #57595C;
 }
 
 #footer-content {
+  font-size: 14px;
   display: grid;
   padding: 1rem;
 }
@@ -176,7 +177,7 @@ input {
 }
 
 .carbon-style {
-  margin: 0 15rem;
+  margin: 0 19rem;
 }
 
 .underline:hover {
