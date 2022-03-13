@@ -172,7 +172,7 @@ input {
   padding-bottom: 2em;
 }
  
-  header {
+  .right {
   display: flex;
   justify-content: space-around;
   }
