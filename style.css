@@ -1,0 +1,196 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Arimo', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #202124;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.flex-container {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  align-items: start;
+  flex-direction: row;
+  padding: 15px 10px 6px 38px;
+}
+
+.gmail {
+  margin-top: 5px;
+  padding-left: 15px;
+  color: white;
+}
+
+.img {
+  margin-top: 5px;
+  padding: 0 15px;
+  color: white;
+}
+
+.pad {
+  padding: 0 12px;
+  cursor: pointer;
+}
+
+.weirdpad {
+  min-width: 28px;
+  max-width: 28px;
+}
+
+.weirdpad:hover {
+  background: #303134;
+  border-radius: 50%;
+}
+
+.profilepic {
+  padding-left: 12px;
+  cursor: pointer;
+}
+
+.icon {
+  color: white;
+  align-items: center;
+  border-radius: 50%;
+}
+
+.icon:hover {
+  background: #303134;
+  border-radius: 50%;
+}
+
+.logo {
+  margin-top: 15em;
+}
+
+.mainsearch {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.search {
+  align-self: center;
+  padding: 20px;
+}
+
+.mgplacement {
+  padding-left: 5px;
+}
+
+.searchbar {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid #57595C;
+  background: #202124;
+  width: 40em;
+  height: 3.2rem;
+  color: white;
+  border-radius: 45px;
+}
+
+.searchbar:hover {
+  border: 1px solid #303134;
+  background: #303134;
+}
+
+.magnifyingglass {
+  width: 40px;
+  height: 40px;
+  padding: 0 8px;
+}
+
+input {
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 16px;
+  color: white;
+}
+
+.micplacement {
+  padding-right: 5px;
+}
+
+.goxjub {
+  width: 40px;
+  height: 40px;
+  padding: 0 8px;
+  cursor: pointer;
+}
+
+.search-btn {
+  background-color: #303134;
+  border-radius: 4px;
+  font-family: arial, sans-serif;
+  font-size: 14px;
+  margin: 11px 4px;
+  color: white;
+  border: 1px solid #303134;
+  padding: 0 16px;
+  line-height: 27px;
+  min-width: 54px;
+  height: 36px;
+}
+
+.search-btn:hover {
+  border: 1px solid #57595C;
+}
+
+#footer {
+  display: block;
+  color: #9aa0a6;
+  margin-top: auto;
+  height: auto;
+  width: 99.9vw;
+  background-color: #171717;
+  align-items: center;
+}
+
+#name {
+  font-size: 1rem;
+  font-family: 'Covered By Your Grace', cursive;
+  color: white;
+}
+
+.country {
+  display: block;
+  font-size: 1rem;
+  height: 48px;
+  padding: 15px 30px;
+  border-bottom: 1px solid #57595C;
+}
+
+#footer-content {
+  display: grid;
+  padding: 1rem;
+}
+
+.carbon-leaf {
+  height: 14px; 
+}
+
+.carbon-style {
+  padding: 0 16em;
+}
+
+.underline:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+@media (max-width: 480px){
+  .searchbar {
+  display: flex;
+  align-items: center;
+  border: 0.5px solid #57595C;
+  background: #202124;
+  width: 450px;
+  height: 3rem;
+  color: white;
+  border-radius: 45px;
+}
+}
