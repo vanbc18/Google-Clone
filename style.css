@@ -19,14 +19,14 @@ body {
 }
 
 .gmail {
-  font-size: 15px;
+  font-size: 13px;
   margin-top: 5px;
   padding-left: 15px;
   color: white;
 }
 
 .img {
-  font-size: 15px;
+  font-size: 13px;
   margin-top: 5px;
   padding: 0 15px;
   color: white;
@@ -176,7 +176,7 @@ input {
 }
 
 .carbon-style {
-  padding: 0 5rem;
+  padding: 0 16rem;
 }
 
 .underline:hover {
