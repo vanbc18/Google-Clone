@@ -5,6 +5,7 @@ body {
   padding: 0;
   background-color: #202124;
   align-items: center;
+  min-height: 100vh;
 }
 
 .right {
@@ -160,6 +161,11 @@ input {
   font-size: 1rem;
   font-family: 'Covered By Your Grace', cursive;
   color: white;
+}
+
+#footer {
+  color: white;
+  margin-top: auto;
 }
 
 @media (max-width: 480px){
