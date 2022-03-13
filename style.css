@@ -159,14 +159,14 @@ input {
   border: 0.5px solid #57595C;
   background: #202124;
   width: 320px;
-  height: 2rem;
+  height: 2.5rem;
   color: white;
   border-radius: 45px;
   }
   
   .logo {
-  margin: 2em 0;
-  height: 46px;
+  margin: 3em 0;
+  height: 30px;
 }
  
   header {
