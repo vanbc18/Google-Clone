@@ -175,7 +175,9 @@ input {
 }
 
 .carbon-leaf {
-  height: 14px; 
+  width: 24px;
+  height: 28px;
+  transform: scale(0.6, 0.6);
 }
 
 .carbon-style {
