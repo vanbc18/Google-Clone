@@ -170,9 +170,9 @@ input {
 #footer-content {
   font-size: 14px;
   display: grid;
-  padding: 1rem 1.5rem;
+  padding: 1rem 0;
   white-space: nowrap;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 
 .carbon-leaf {
