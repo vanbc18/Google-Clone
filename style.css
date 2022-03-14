@@ -15,7 +15,7 @@ body {
   justify-content: flex-end;
   align-items: start;
   flex-direction: row;
-  padding: 15px 0 0 38px;
+  padding: 15px 3px 0 38px;
 }
 
 .gmail {
@@ -38,8 +38,8 @@ body {
 }
 
 .weirdpad {
-  min-width: 25px;
-  max-width: 25px;
+  min-width: 24px;
+  max-width: 24px;
 }
 
 .weirdpad:hover {
