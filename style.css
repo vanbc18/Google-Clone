@@ -70,11 +70,6 @@ body {
   margin-top: 12.5em;
 }
 
-.logo-size {
-  width: auto;
-  height: auto;
-}
-
 .mainsearch {
   display: flex;
   flex-direction: column;
