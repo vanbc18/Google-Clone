@@ -184,7 +184,7 @@ input {
 .carbon-leaf {
   width: 24px;
   height: 28px;
-  transform: scale(0.6, 0.6);
+  transform: scale(0.5, 0.5);
 }
 
 .carbon-style {
