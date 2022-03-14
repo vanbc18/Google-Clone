@@ -210,4 +210,8 @@ input {
   .logo-size {
   width: 160px;
 }
+  
+  .goxjub {
+  visibility: hidden;
+  }
 }
