@@ -190,10 +190,10 @@ input {
   .searchbar {
   display: flex;
   align-items: center;
-  border: 0.5px solid #57595C;
+  border: 0.5px solid #282923;
   background: #202124;
-  width: 280px;
-  height: 3rem;
+  width: 290px;
+  height: 2.5rem;
   color: white;
   border-radius: 45px;
 }
