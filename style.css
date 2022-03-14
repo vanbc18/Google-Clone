@@ -196,4 +196,8 @@ input {
   color: white;
   border-radius: 45px;
 }
+  
+  #footer {
+  visibility: hidden;
+  }
 }
