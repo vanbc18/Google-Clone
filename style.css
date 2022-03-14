@@ -169,7 +169,7 @@ input {
 #footer-content {
   font-size: 14px;
   display: grid;
-  padding: 1rem;
+  padding: 1rem 1.5rem;
 }
 
 .carbon-leaf {
@@ -200,4 +200,8 @@ input {
   #footer {
   visibility: hidden;
   }
+  
+  .logo {
+  width: 160px;
+}
 }
