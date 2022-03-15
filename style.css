@@ -57,7 +57,7 @@ body {
   color: white;
   align-items: center;
   border-radius: 50%;
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
@@ -68,6 +68,11 @@ body {
 
 .logo {
   margin-top: 12.5em;
+}
+
+.logo-size {
+  max-width: 100%;
+  height: auto;
 }
 
 .mainsearch {
